@@ -1,4 +1,3 @@
-
 create or replace procedure create_tables()
 language plpgsql as $$
 begin
